@@ -2,6 +2,9 @@
 
 This is Simple Voting System
 
+<img width="218" alt="Screen Shot 2022-03-28 at 06 13 54" src="https://user-images.githubusercontent.com/25977167/160305372-47702a6d-a13f-40f8-a2aa-48eb2d77a46d.png">
+
+
 Features :
 
 ● The owner of the contract can input one or more choices to be voted by people.
